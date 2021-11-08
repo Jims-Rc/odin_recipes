@@ -1,5 +1,5 @@
 # odin_recipes
-Repository for odin course project
+Repository for odin course project.
 The Odin Project is a place for newbies to learn web development skills for Free.
 The Odin Project provides best curated documents on the internet so you don't have to pay for anything.
 Yes,you've heard it correct !!!. It's open source and free of charge for anyone no matter where you are from around the globe.
